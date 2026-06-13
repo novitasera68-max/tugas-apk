@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+            <title> Formulir Pendaftaran</title>
+    </head>
+    <body>
+        <center><table>
+    <h2><center> Formulir Pendaftaran SMK La-Tahzan</center></h2>
+    <font face="times new roman" size="4">
+    <center><table border="0"></center>
+    </font>
+
+<tr>
+    <td> Nama Lengkap </td>
+    <td> : </td>
+    <td><input type="text" name="nama" size="30"></td>
+</tr>
+
+<tr>
+    <td> NISN </td>
+    <td> : </td>
+    <td><input type="text" name="nisn" size="30"></td>
+</tr>
+
+<tr>
+    <td> Tempat Lahir </td>
+    <td> : </td>
+    <td><input type="text" name="tempat" size="30"></td>
+</tr>
+
+<tr>
+    <td> Tanggal Lahir </td>
+    <td> : </td>
+    <td><input type="date" name="tanggal"></td>
+</tr>
+
+</table>
+</center>
+</html>
+        </table></center>
+</html>
